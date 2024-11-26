@@ -45,7 +45,6 @@
           <td align="center">Vue.js</td>
           <td align="center"><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" /></a></td>
           <td align="center">Docker</td>
-        <tr>
         </tr>
       </table>
     </td>
