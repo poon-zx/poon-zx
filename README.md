@@ -6,15 +6,41 @@
 <h3 align="left">💻 Year 3 NUS Business Analytics (Machine Learning Spec) & Statistics Double Major</h3>
 <h3 align="left">🤖 Aspiring Machine Learning Engineer / Data Scientist</h3>
 
-### Languages and Frameworks I've Worked With
-
-| Python | React | Django | Java | Scikit-learn |
-|--------|-------|--------|------|--------------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/> |
-
-| PyTorch | TensorFlow | NumPy | Pandas |
-|---------|------------|-------|--------|
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/> |
+<table>
+  <tr>
+    <td valign="top" width="40%">
+      <h3>Languages, Frameworks and Tools:</h3>
+      <table align="center" width="100%">
+        <tr>
+          <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a></td>
+          <td align="center">Python</td>
+          <td align="center"><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" /></a></td>
+          <td align="center">Pandas</td>
+          <td align="center"><a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40" /></a></td>
+          <td align="center">NumPy</td>
+          <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" /></a></td>
+          <td align="center">scikit-learn</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /></a></td>
+          <td align="center">PyTorch</td>
+          <td align="center"><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" /></a></td>
+          <td align="center">Matplotlib</td>
+          <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /></a></td>
+          <td align="center">React</td>
+          <td align="center"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" /></a></td>
+          <td align="center">Django</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a></td>
+          <td align="center">Java</td>
+          <td align="center"><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /></a></td>
+          <td align="center">TensorFlow</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 <table>
   <tr>
