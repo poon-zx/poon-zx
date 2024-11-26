@@ -56,27 +56,27 @@
 <table style="width: 100%; text-align: center; table-layout: fixed; border-collapse: collapse;">
   <tr>
     <!-- Year Row -->
-    <td><b>2025</b></td>
-    <td><b>2024</b></td>
-    <td><b>2023</b></td>
-    <td><b>2023</b></td>
-    <td><b>2022</b></td>
+    <td style="text-align: center;"><b>2025</b></td>
+    <td style="text-align: center;"><b>2024</b></td>
+    <td style="text-align: center;"><b>2023</b></td>
+    <td style="text-align: center;"><b>2023</b></td>
+    <td style="text-align: center;"><b>2022</b></td>
   </tr>
   <tr>
     <!-- Company Icon Row -->
-    <td><img src="tiktok.png" alt="TikTok" width="70" height="70"></td>
-    <td><img src="govtech.png" alt="GovTech" width="70" height="70"></td>
-    <td><img src="rakuten-viki.png" alt="Rakuten Viki" width="70" height="70"></td>
-    <td><img src="https://via.placeholder.com/40" alt="Company 4" width="40" height="40"></td>
-    <td><img src="https://via.placeholder.com/40" alt="Company 5" width="40" height="40"></td>
+    <td style="text-align: center;"><img src="tiktok.png" alt="TikTok" width="80" height="80"></td>
+    <td style="text-align: center;"><img src="govtech.png" alt="GovTech" width="80" height="80"></td>
+    <td style="text-align: center;"><img src="rakuten-viki.png" alt="Rakuten Viki" width="70" height="70"></td>
+    <td style="text-align: center;"><img src="shopee.png" alt="Shopee" width="40" height="40"></td>
+    <td style="text-align: center;"><img src="foodpanda.jpeg" alt="foodpanda" width="40" height="40"></td>
   </tr>
   <tr>
     <!-- Role Row -->
-    <td>Machine Learning Engineer</td>
-    <td>Data Scientist</td>
-    <td>Data (Product)</td>
-    <td>Product Analyst</td>
-    <td>Business Analyst</td>
+    <td style="text-align: center;">Machine Learning Engineer</td>
+    <td style="text-align: center;">Data Scientist</td>
+    <td style="text-align: center;">Data (Product)</td>
+    <td style="text-align: center;">Product Analyst</td>
+    <td style="text-align: center;">Business Analyst</td>
   </tr>
 </table>
 
