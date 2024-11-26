@@ -35,6 +35,7 @@
           <td align="center"><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /></a></td>
           <td align="center">TensorFlow</td>
         </tr>
+        <tr>
           <td align="center"><a href="https://www.r-project.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" height="40" /></a></td>
           <td align="center">R</td>
           <td align="center"><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40" /></a></td>
@@ -48,6 +49,34 @@
         </tr>
       </table>
     </td>
+  </tr>
+</table>
+
+<h3 style="text-align: center; margin-bottom: 10px;">Past Internship Experience</h3>
+<table style="width: 100%; text-align: center; table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <!-- Year Row -->
+    <td><b>2025</b></td>
+    <td><b>2024</b></td>
+    <td><b>2023</b></td>
+    <td><b>2023</b></td>
+    <td><b>2022</b></td>
+  </tr>
+  <tr>
+    <!-- Company Icon Row -->
+    <td><img src="tiktok.png" alt="TikTok" width="40" height="40"></td>
+    <td><img src="govtech.png" alt="GovTech" width="40" height="40"></td>
+    <td><img src="rakuten-viki" alt="Rakuten Viki" width="40" height="40"></td>
+    <td><img src="https://via.placeholder.com/40" alt="Company 4" width="40" height="40"></td>
+    <td><img src="https://via.placeholder.com/40" alt="Company 5" width="40" height="40"></td>
+  </tr>
+  <tr>
+    <!-- Role Row -->
+    <td>Machine Learning Engineer</td>
+    <td>Data Scientist</td>
+    <td>Data (Product)</td>
+    <td>Product Analyst</td>
+    <td>Business Analyst</td>
   </tr>
 </table>
 
