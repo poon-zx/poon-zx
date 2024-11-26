@@ -10,7 +10,7 @@
   <tr>
     <td valign="top" width="100%">
       <h3>Languages, Frameworks and Tools:</h3>
-      <table align="center" width="100%" table-layout: fixed; overflow-y: hidden;">
+      <table align="center" width="100%" style="border-collapse: collapse;">
         <tr>
           <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a></td>
           <td align="center">Python</td>
