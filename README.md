@@ -3,7 +3,7 @@
     <img src="party_blob.gif" alt="Blob" width="40px" padding="0"/>
 </h1>
 
-<h3 align="left">💻 Year 3 NUS Business Analytics (Machine Learning Spec) & Statistics Double Major</h3>
+<h3 align="left">💻 Year 3 NUS Business Analytics (Machine Learning Specialization) & Statistics Double Major</h3>
 <h3 align="left">🤖 Aspiring Machine Learning Engineer / Data Scientist</h3>
 
 <table style="width: 100%; table-layout: fixed;">
