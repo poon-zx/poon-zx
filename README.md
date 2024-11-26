@@ -89,6 +89,7 @@
 <table>
   <tr>
     <td>
+        <h3 style="text-align: center; margin-bottom: 10px;">Some Statistics</h3>
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img src="https://github-readme-stats.vercel.app/api?username=poon-zx" alt="Poon's GitHub stats" />
       </a>
