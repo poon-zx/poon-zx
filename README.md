@@ -67,8 +67,8 @@
     <td style="text-align: center;"><img src="tiktok.png" alt="TikTok" width="80" height="80"></td>
     <td style="text-align: center;"><img src="govtech.png" alt="GovTech" width="80" height="80"></td>
     <td style="text-align: center;"><img src="rakuten-viki.png" alt="Rakuten Viki" width="80" height="80"></td>
-    <td style="text-align: center;"><img src="shopee-new.png" alt="Shopee" width="120" height="80"></td>
-    <td style="text-align: center;"><img src="foodpanda.jpeg" alt="foodpanda" width="120" height="80"></td>
+    <td style="text-align: center;"><img src="shopee-new.png" alt="Shopee" width="120" height="70"></td>
+    <td style="text-align: center;"><img src="foodpanda.jpeg" alt="foodpanda" width="120" height="70"></td>
   </tr>
   <tr>
     <!-- Role Row -->
