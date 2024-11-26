@@ -6,11 +6,11 @@
 <h3 align="left">💻 Year 3 NUS Business Analytics (Machine Learning Specialization) & Statistics Double Major</h3>
 <h3 align="left">🤖 Aspiring Machine Learning Engineer / Data Scientist</h3>
 
-<table style="width: 100%; table-layout: fixed; overflow-y: hidden;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <td valign="top" width="100%">
       <h3 style="padding-top: -30px;">Languages, Frameworks and Tools:</h3>
-      <table align="center" width="100%" style="border-collapse: collapse; overflow-y: hidden;">
+      <table align="center" width="100%" style="border-collapse: collapse;">
         <tr>
           <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a></td>
           <td align="center">Python</td>
