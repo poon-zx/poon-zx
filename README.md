@@ -6,7 +6,7 @@
 <h3 align="left">💻 Year 3 NUS Business Analytics (Machine Learning Specialization) & Statistics Double Major</h3>
 <h3 align="left">🤖 Aspiring Machine Learning Engineer / Data Scientist</h3>
 
-<table style="width: 100%; table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed; overflow-y: hidden;">
   <tr>
     <td valign="top" width="100%">
       <h3>Languages, Frameworks and Tools:</h3>
