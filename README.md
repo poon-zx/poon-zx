@@ -8,17 +8,13 @@
 
 ### Languages and Frameworks I've Worked With
 
-| Language/Framework | Icon |
-|---------------------|------|
-| Python             | ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) |
-| React              | ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) |
-| Django             | ![Django](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg) |
-| Java               | ![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) |
-| Scikit-learn       | ![Scikit-learn](https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg) |
-| PyTorch            | ![PyTorch](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg) |
-| TensorFlow         | ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg) |
-| NumPy              | ![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg) |
-| Pandas             | ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg) |
+| Python | React | Django | Java | Scikit-learn |
+|--------|-------|--------|------|--------------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40"/> |
+
+| PyTorch | TensorFlow | NumPy | Pandas |
+|---------|------------|-------|--------|
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="40"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="40"/> |
 
 <table>
   <tr>
