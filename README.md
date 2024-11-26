@@ -55,7 +55,7 @@
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td valign="top" width="100%">
-    <h3 style="text-align: center; margin-bottom: 10px;">Past Internship Experience</h3>
+    <h3 style="text-align: center; margin-bottom: 10px;">Internship Experiences</h3>
     <table style="width: 100%; text-align: center; table-layout: fixed; border-collapse: collapse;">
       <tr>
         <!-- Year Row -->
