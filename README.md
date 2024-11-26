@@ -66,9 +66,9 @@
     <!-- Company Icon Row -->
     <td style="text-align: center;"><img src="tiktok.png" alt="TikTok" width="80" height="80"></td>
     <td style="text-align: center;"><img src="govtech.png" alt="GovTech" width="80" height="80"></td>
-    <td style="text-align: center;"><img src="rakuten-viki.png" alt="Rakuten Viki" width="70" height="70"></td>
-    <td style="text-align: center;"><img src="shopee.png" alt="Shopee" width="40" height="40"></td>
-    <td style="text-align: center;"><img src="foodpanda.jpeg" alt="foodpanda" width="40" height="40"></td>
+    <td style="text-align: center;"><img src="rakuten-viki.png" alt="Rakuten Viki" width="80" height="80"></td>
+    <td style="text-align: center;"><img src="shopee.png" alt="Shopee" width="80" height="80"></td>
+    <td style="text-align: center;"><img src="foodpanda.jpeg" alt="foodpanda" width="80" height="80"></td>
   </tr>
   <tr>
     <!-- Role Row -->
