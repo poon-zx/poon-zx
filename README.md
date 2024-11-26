@@ -64,9 +64,9 @@
   </tr>
   <tr>
     <!-- Company Icon Row -->
-    <td><img src="tiktok.png" alt="TikTok" width="40" height="40"></td>
-    <td><img src="govtech.png" alt="GovTech" width="40" height="40"></td>
-    <td><img src="rakuten-viki" alt="Rakuten Viki" width="40" height="40"></td>
+    <td><img src="tiktok.png" alt="TikTok" width="70" height="70"></td>
+    <td><img src="govtech.png" alt="GovTech" width="70" height="70"></td>
+    <td><img src="rakuten-viki.png" alt="Rakuten Viki" width="70" height="70"></td>
     <td><img src="https://via.placeholder.com/40" alt="Company 4" width="40" height="40"></td>
     <td><img src="https://via.placeholder.com/40" alt="Company 5" width="40" height="40"></td>
   </tr>
