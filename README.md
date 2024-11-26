@@ -20,22 +20,22 @@
           <td align="center">NumPy</td>
           <td align="center"><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" height="40" /></a></td>
           <td align="center">scikit-learn</td>
-        </tr>
-        <tr>
           <td align="center"><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" /></a></td>
           <td align="center">PyTorch</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://matplotlib.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" /></a></td>
           <td align="center">Matplotlib</td>
           <td align="center"><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40" /></a></td>
           <td align="center">React</td>
           <td align="center"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="Django" width="40" height="40" /></a></td>
           <td align="center">Django</td>
-        </tr>
-        <tr>
           <td align="center"><a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" /></a></td>
           <td align="center">Java</td>
           <td align="center"><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40" /></a></td>
           <td align="center">TensorFlow</td>
+        </tr>
+        <tr>
         </tr>
       </table>
     </td>
