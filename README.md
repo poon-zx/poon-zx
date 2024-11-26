@@ -9,7 +9,7 @@
 <table style="width: 100%; table-layout: fixed;">
   <tr>
     <td valign="top" width="100%">
-      <h3 style="padding-top: -30px;">Languages, Frameworks and Tools:</h3>
+      <h3 style="margin: 0; padding: 0;">Languages, Frameworks and Tools:</h3>
       <table align="center" width="100%" style="border-collapse: collapse;">
         <tr>
           <td align="center"><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /></a></td>
