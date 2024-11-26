@@ -1,4 +1,7 @@
-
+<h1 align="center">
+    Hi! I'm Poon!
+    <img src="party_blob.gif" alt="Doge" width="40px" padding="0"/>
+</h1>
 <!--
 **poon-zx/poon-zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
