@@ -90,12 +90,10 @@
   <tr>
       <h3 style="text-align: center; margin-bottom: 10px;">Some Statistics</h3>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api?username=poon-zx" alt="Poon's GitHub stats" />
-      </a>
+        <img src="https://leetcard.jacoblin.cool/poonzx?ext=contest" alt="Leetcode" />
     </td>
     <td>
-      <img src="https://leetcard.jacoblin.cool/poonzx?ext=heatmap" alt="Leetcode Stats" />
+      <img src="https://codeforces-readme-stats.vercel.app/api/card?username=poonzx" alt="Codeforces" />
     </td>
   </tr>
 </table>
